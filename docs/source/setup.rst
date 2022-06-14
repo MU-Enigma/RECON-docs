@@ -7,6 +7,7 @@ Networking
 **Worker nodes**
 
 .. codeblock:: python
+    
     # To be appended to /etc/dhcpcd.conf
 
     interface eth0
