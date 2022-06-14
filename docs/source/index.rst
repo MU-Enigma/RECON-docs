@@ -4,8 +4,7 @@ Welcome to RECON's documentation!
 RECON (Raspberri Pi Engineered Cluster over Network) is Enigma's Raspberry Pi Cluster.
 You can find all the setup files and other relevant documentation here.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`specs` section for information regarding the specifications.
 
 .. note::
 
@@ -16,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   specs
+   
