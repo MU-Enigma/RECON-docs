@@ -35,6 +35,7 @@ and vice-versa. It also allows the worker nodes to recognize the fact that the m
 
 .. code-block::
     :linenos:
+    
     # To be appended to /etc/dhcpcd.conf
 
     interface eth0
