@@ -1,4 +1,4 @@
-Specifications
+Setup
 =====
 
 Networking
