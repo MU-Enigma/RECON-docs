@@ -35,7 +35,7 @@ and vice-versa. It also allows the worker nodes to recognize the fact that the m
 
 .. code-block::
     :linenos:
-    
+
     # To be appended to /etc/dhcpcd.conf
 
     interface eth0
@@ -48,5 +48,5 @@ and vice-versa. It also allows the worker nodes to recognize the fact that the m
     static routers=172.22.69.1 
     static domain_name_servers=8.8.8.8
 
-.. admonition::
+.. caution::
     Do not use the transparency here with malicious intent.
