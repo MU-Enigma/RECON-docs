@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RECON'
+copyright = '2022, MU-Enigma'
+author = 'MU-Enigma'
 
 release = '0.1'
 version = '0.1.0'
