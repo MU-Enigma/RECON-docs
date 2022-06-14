@@ -4,10 +4,10 @@ Setup
 Networking
 ----------
 
-*Worker nodes*
+**Worker nodes**
 
-.. codeblock:: 
-    .. To be appended to /etc/dhcpcd.conf
+.. codeblock:: python
+    # To be appended to /etc/dhcpcd.conf
 
     interface eth0
     static ip_address=172.22.69.1*/24	# Change IP according to the node
