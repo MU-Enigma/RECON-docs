@@ -1,6 +1,5 @@
-====
 Programs
-=====
+========
 
 ----------
 Matrix multiplication
